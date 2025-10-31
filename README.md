@@ -1,8 +1,14 @@
 # DA5401 — Assignment 7: Model Selection
 
 This repository contains the Jupyter Notebook **`DA5401_A7.ipynb`**, which demonstrates the process of **model selection and evaluation** using the **Statlog (Landsat Satellite) Dataset** from the UCI Machine Learning Repository.
-Name: Venkata Sai Vihswesvar SV
+
+
+Name: Venkata Sai Vishwesvar SV
+
+
 GITHUB ID: Venkat-Shadeslayer
+
+
 Roll number: BE22B042
 ---
 
